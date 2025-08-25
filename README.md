@@ -1,4 +1,4 @@
-### Hi there im Tofu 👋
+### Hi there im Eloy Dominguez 👋
 I’m currently working on Data Science
 
 <!--
